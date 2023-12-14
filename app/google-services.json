@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577961342345",
+    "project_id": "pancrus",
+    "storage_bucket": "pancrus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577961342345:android:a0708b172c57d9bcab5d58",
+        "android_client_info": {
+          "package_name": "com.example.pancrus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9a8opPEG_sU9I3UhbEHzMaTv6NlWcHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
